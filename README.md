@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Revan-Nagireddy/Revan-Nagireddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=1fa351&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Revan+;Welcome+to+My+Profile!%2C;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=1fa351&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Revan+;">
 </div>
 
 
